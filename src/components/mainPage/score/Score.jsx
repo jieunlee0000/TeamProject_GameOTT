@@ -1,6 +1,6 @@
 import GenreTab from "../../common/genreTab/GenreTab";
 import SectionTitle from "../../common/sectionTitle/SectionTitle";
-import ScoreGenre from "./scoreGenre";
+import ScoreGenre from "./ScoreGenre";
 import './style.css';
 
 const Score = () => {
