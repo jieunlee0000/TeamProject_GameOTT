@@ -1,4 +1,4 @@
-import LiveList from './Livelist';
+import LiveList from './LiveList';
 import './style.css';
 import { IoIosArrowForward } from 'react-icons/io';
 
