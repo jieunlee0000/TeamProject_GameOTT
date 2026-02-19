@@ -1,4 +1,4 @@
-import Footer from '../../common/footer/footer';
+import Footer from '../../common/footer/Footer';
 import Header from '../../common/header/header';
 import Category from '../../components/mainPage/category/Category';
 import Community from '../../components/mainPage/community/Community';
