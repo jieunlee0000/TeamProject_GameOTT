@@ -1,5 +1,5 @@
 import Footer from '../../common/footer/Footer';
-import Header from '../../common/header/header';
+import Header from '../../common/header/Header';
 import Category from '../../components/mainPage/category/Category';
 import Community from '../../components/mainPage/community/Community';
 import LikeCollection from '../../components/mainPage/likeCollection/LikeCollection';
